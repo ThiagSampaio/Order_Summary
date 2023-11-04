@@ -1,10 +1,11 @@
 package entities;
 
 public class OrderItem {
+	
 	private Integer quantity;
 	private Double price;
 	
-	Product product = new Product();
+	private Product product;
 	
 	public OrderItem() {
 		
@@ -56,4 +57,3 @@ public class OrderItem {
 }
 	
 	
-}
