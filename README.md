@@ -10,15 +10,17 @@ Read data from an order with N items (N provided by the user). Then show a order
 
 ## Implementation
 
-[WorkerLevel](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/WorkerLevel.java)
+[Order](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/entities/Order.java)
 
-[Department](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/Department.java)
+[OrderItem](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/entities/OrderItem.java)
 
-[HourContract](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/HourContract.java)
+[Product](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/entities/Product.java)
 
-[Worker](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/entities/Worker.java)
+[Client](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/entities/Client.java)
 
-[Main](https://github.com/ThiagSampaio/Salary_Calculation_Java/blob/main/Salary_Calculation/src/applicaltion/Program.java)
+[OrderStatus](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/entities/OrderStatus.java)
+
+[Main](https://github.com/ThiagSampaio/Order_Summary/blob/main/Order_Summary/src/application/Program.java)
 
 ## Result
 
